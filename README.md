@@ -1,5 +1,6 @@
-# 💫 About Me:
-🙋‍♂️ Hi, I'm Adeeb Jamil,<br>👨‍💻 a passionate front-end web developer from India with 1 year of experience I've had the opportunity to work with various languages and technologies, continuously expanding my skills and knowledge.  I enjoy building engaging, user-friendly web applications and am always eager to learn and grow in the ever-evolving tech landscape.<br>♾️My experiences and challenges in coding projects over the past year<br>🖥️The latest tech trends that fascinate me and how they influence my work<br>⚡ My passion for continuous learning and exploring new technologies.
+#                                                                                                     💫 About Me:
+                        🙋‍♂️ Hi, I'm Adeeb Jamil,<br>👨‍💻 a passionate front-end web developer from India with 1 year of experience I've had the opportunity to work with various languages and technologies, 
+                        continuously expanding my skills and knowledge.  I enjoy building engaging, user-friendly web applications and am always eager to learn and grow in the ever-evolving tech landscape.<br>♾️My experiences and challenges in coding projects over the past year<br>🖥️The latest tech trends that fascinate me and how they influence my work<br>⚡ My passion for continuous learning and exploring new technologies.
 
 
 ## 🌐 Socials:
